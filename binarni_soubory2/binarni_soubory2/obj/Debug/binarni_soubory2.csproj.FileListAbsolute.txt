@@ -1,0 +1,10 @@
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\bin\Debug\binarni_soubory2.exe.config
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\bin\Debug\binarni_soubory2.exe
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\bin\Debug\binarni_soubory2.pdb
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.csprojAssemblyReference.cache
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.Form1.resources
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.Properties.Resources.resources
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.csproj.GenerateResource.cache
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.csproj.CoreCompileInputs.cache
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.exe
+G:\PRG\C#\binarni_soubory2\binarni_soubory2\obj\Debug\binarni_soubory2.pdb
